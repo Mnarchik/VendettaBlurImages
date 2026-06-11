@@ -1,5 +1,5 @@
 {
-    "name": "Blur Images Toggle",
+    "name": "Blur Images",
     "description": "Blurs images in specified servers and group chats. Long-press a server or group DM to toggle.",
     "authors": [
         {
@@ -8,5 +8,5 @@
         }
     ],
     "main": "index.js",
-    "hash": "1"
+    "hash": "1.0.1"
 }
